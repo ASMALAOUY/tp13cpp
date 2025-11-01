@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1762026360 source:c:\users\x1 yoga\documents\tp13cpp\exercice3\main.cpp
+	<iostream>
+	<memory>
+	<stdexcept>
+	<vector>
+
